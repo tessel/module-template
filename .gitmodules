@@ -1,0 +1,3 @@
+[submodule "tessel-module-template-kicad/tm-kicad-library"]
+	path = tessel-module-template-kicad/tm-kicad-library
+	url = https://github.com/technicalmachine/tm-kicad-library
